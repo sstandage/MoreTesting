@@ -1,0 +1,8 @@
+---
+title: "Description"
+author: "Steve Standage"
+date: "July 18, 2017"
+output: html_document
+---
+
+Here are some things to start this off.
